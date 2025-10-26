@@ -121,6 +121,7 @@
     "@strapi/email": "5.29.0",
     "@strapi/generators": "5.29.0",
     "@strapi/i18n": "5.29.0",
+    "@strapi/audit-logs": "5.29.0",
     "@strapi/logger": "5.29.0",
     "@strapi/openapi": "5.29.0",
     "@strapi/permissions": "5.29.0",

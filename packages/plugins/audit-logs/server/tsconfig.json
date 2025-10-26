@@ -1,0 +1,10 @@
+{
+  "extends": "../../../utils/tsconfig/base.json",
+  "include": ["./src"],
+  "compilerOptions": {
+    "rootDir": "../",
+    "baseUrl": ".",
+    "lib": ["ES2017", "DOM"],
+    "target": "ES2017"
+  }
+}
